@@ -1,0 +1,6 @@
+| Category                 | Difficulty |
+| ------------------------ | ---------- |
+| Recursion & Backtracking | easy       |
+
+https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
+

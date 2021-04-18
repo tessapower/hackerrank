@@ -2,5 +2,7 @@
 | -------- | ---------- |
 | Arrays   | easy       |
 
-https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+[Link to Challenge](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+
+![Description](./Description.png)
 

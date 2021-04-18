@@ -2,5 +2,7 @@
 | -------- | ---------- |
 | Warmup   | easy       |
 
-https://www.hackerrank.com/challenges/counting-valleys/problem
+[Link to Challenge](https://www.hackerrank.com/challenges/counting-valleys/problem)
+
+![Description](./Description.png)
 

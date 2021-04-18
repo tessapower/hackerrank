@@ -1,6 +1,5 @@
-// HackerRank Interview Preparation Kit: Arrays
-// Minimum Swaps
-// https://bit.ly/3ehnZXQ
+// HackerRank: Minimum Swaps 2
+// https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 
 'use strict';
 

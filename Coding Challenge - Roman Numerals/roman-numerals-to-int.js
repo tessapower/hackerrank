@@ -38,10 +38,11 @@ function sortByNameAndOrdinal(names) {
     // e.g. a = "Louis IX" == b = "Louis IX"
     return 0;
   });
-  // FIXME: in the original coding challenge, I did another sort here instead
-  // of inside the first sort closure to sort according to the ordinal portion.
-  // This resulted in time complexity of O(nlog(n) + n) instead of simply
-  // O(nlog(n)) like I have now implemented above.
+  // FIXME: in the original coding challenge, I (stupidly) sorted the names
+  // first alphabetically and then used another sort to fix the roman numeral
+  // sorting.
+  // 
+  // In effect, it was O(nlog(n) + n) instead of just O(nlog(n)).
 
   return names;
 }
